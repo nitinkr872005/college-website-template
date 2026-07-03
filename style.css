@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Rubik", sans-serif;
+}
+.top-bar{
+    background-color: #0d6efd;
+    color: white;
+}
+
+.header-logo img{
+    height: 130px;
+    width: 130px;
+}
+.header h1{
+    font-size: 43px;
+    font-weight: 700;
+}
+.second-logo img{
+    height: 70px;
+    width: 140px;
+}
+.cont p{
+    font-size: 20px;
+}
+.navbar{
+    background-color: #0d6efd;
+}
+.ann{
+    width: 250px;
+    background-color: #0d6efd;
+}
+.arrow{
+    margin-left: 33px;
+}
+.nu1{
+    border-left: 7px solid #0d6efd;
+    padding-left: 10px;
+}
+.sty{
+    background-color: rgb(247, 239, 229);
+}
+.bac1{
+    background-color: #0d6efd;
+}
+.nu2{
+    border-left: 7px solid white;
+    padding-left: 10px;
+}
